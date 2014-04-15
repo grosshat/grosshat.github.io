@@ -2,7 +2,7 @@
 layout: post
 title: test
 comments: true
-permalink: test-april
+permalink: source-code-management-quality
 ---
 
 testing excerpt as an automatic attribute of post
