@@ -14,5 +14,7 @@ managing changes, naming them, tagging them and sharing them with other
 developers. Despite its importance, there is often a lack of taste for VCS
 management among developers.
 
+
 Bad titles
 ---
+Too often the _commit moment_
