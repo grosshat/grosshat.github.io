@@ -9,7 +9,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Iñigo Medina
+title:            Iñigo Medina Blog
 tagline:          'Code, Open Source'
 url:              http://grosshat.github.io
 shorturl:         grosshat.github.io
@@ -29,8 +29,6 @@ github:
 # This is the list of pages to incldue in the header of the website.
 pages_list:       
   About: '/about/'
-  Archive: '/archive/'
-  Feed: '/atom.xml'
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
