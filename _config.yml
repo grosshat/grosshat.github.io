@@ -29,6 +29,9 @@ github:
 # This is the list of pages to incldue in the header of the website.
 pages_list:       
   About: '/about/'
+  Feed: '/feed/'
+  Twitter: 'http://twitter.com/grosshat'
+  GitHub: 'http://github.com/grosshat'
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages

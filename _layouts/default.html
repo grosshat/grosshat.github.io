@@ -23,9 +23,9 @@
       {% include comments.html %}
 
       <div class="footer">
-        <p>
-          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-        </p>
+        {% for page in site.pages_list %}
+            &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+        {% endfor %} 
       </div>
     </div>
 
