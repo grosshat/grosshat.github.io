@@ -13,3 +13,6 @@ specific versions later. It helps a lot giving you an structured way for
 managing changes, naming them, tagging them and sharing them with other
 developers. Despite its importance, there is often a lack of taste for VCS
 management among developers.
+
+Bad titles
+---
