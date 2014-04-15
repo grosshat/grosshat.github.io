@@ -14,9 +14,10 @@ managing changes, naming them, tagging them and sharing them with other
 developers. Despite its importance, there is often a lack of taste for VCS
 management among developers.
 
+---
 
 Bad titles
----
+----------
 Too often the **commit moment** is understood, or at least felt, as a mere
 formality. That means a tree full of bad titles and poor or just empty
 descriptions, very hard to read later. Title and description should help to read
