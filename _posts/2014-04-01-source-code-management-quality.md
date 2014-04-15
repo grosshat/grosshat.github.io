@@ -23,7 +23,7 @@ descriptions, very hard to read later. Title and description should help to read
 and search over the tree without the need of reading directly the code.
 
 Look at these real examples and try to imagine how you would read a tree full of
-commits like these without feelling you are reading a boring ass story.
+commits like these without feeling you are reading a boring ass story.
 
     commit 7f6bba884f8bf417d7ea25bb6ae106180cdcdbb2
     Author: developer <developer@boring.com>
@@ -31,8 +31,14 @@ commits like these without feelling you are reading a boring ass story.
 
         Update view
 
-    commit 7f6bba884f8bf417d7ea25bb6ae106180cdcdbb2
+    commit 9f6bba884f8bf598d7ea25bb6ae106180cdcdbb4
     Author: developer <developer@boring.com>
-    Date:   Wed Jun 15 9:06:19 2013 +0200 
+    Date:   Wed Jun 10 9:06:19 2013 +0200 
 
         testing 1
+
+    commit 4f6bba884f8bf345d7ea25bb6ae106180cdcdbb7
+    Author: developer <developer@boring.com>
+    Date:   Mon Feb 7 14:06:19 2013 +0200 
+
+        update plugin.php, monday 7 
