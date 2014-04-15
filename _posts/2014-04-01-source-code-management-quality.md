@@ -16,7 +16,7 @@ management among developers.
 
 ---
 
-Bad titles
+Bad Titles
 ----------
 Too often the **commit moment** is understood, or at least felt, as a mere
 formality. That means a tree full of bad titles and poor or just empty
@@ -43,3 +43,60 @@ commits like these without feeling you are reading a boring ass story.
     Date:   Mon Feb 7 14:06:19 2013 +0200 
 
         update plugin.php, monday 7 
+
+
+Non-English Language
+--------------------
+English is the language for writing code. Dot. Your code, your comments and
+everything related to such stuff should be always in english. It does not matter
+how much or how little you know and the quality of your english sentences and
+vocabulary. The more you use it, the more you know. The goal is to read, write
+and think just in one language, and do not have to move between different
+languages depending on the thing. Some people works the following manner (I use
+spanish since it is my native language):
+
+- spanish for comments 
+- english for variables
+- spanish for file names
+- english for function names
+- spanish for commits
+- english for external libraries
+
+That is crap. Stop to do it. It is unsane and it does not help your career.
+Writing code, building programs is a very communicative activity, requiring much
+of the time cultivating good writing manners. And it is very hard to do that
+writing pieces in one language surrounded by another one. 
+
+Look at these real commits and try to imagine how you would read a tree full of
+commits like these without feeling that the story is broken.
+
+    commit 7f6bba884f8bf417d7ea25bb6ae106180cdcdbb2
+    Author: developer <developer@boring.com>
+    Date:   Tue Aug 9 12:06:19 2013 +0200
+
+        actualizo la librería para conectarnos a gmail
+
+        /vendors/gmail-api.py | 12 +++++++++---
+        1 file changed, 9 insertions(+), 3 deletions(-)
+
+    commit 9g6bba884f8bf417d7ea25bb6ae106180cdcdbd5
+    Author: developer <developer@boring.com>
+    Date:   Fri Aug 8 10:25:19 2013 +0200
+
+        corrijo un error en la clase Person
+
+        /classes/person.php | 12 +++++++-
+        1 file changed, 7 insertions(+), 1 deletions(-) 
+          
+
+
+Poor Ego
+--------
+
+
+
+Fat Commits
+-----------
+
+
+
