@@ -17,4 +17,20 @@ management among developers.
 
 Bad titles
 ---
-Too often the _commit moment_
+Too often the **commit moment** is understood, or at least felt, as a mere
+formality. That means a tree full of bad titles and poor or just empty
+descriptions, very hard to read later. Title and description should help to read
+and search over the tree without the need of reading directly the code.
+
+Look at these real examples and try to imagine how you would read a tree full of
+commits like these without feelling you are reading a boring ass story.
+
+` 
+Update view.
+`
+
+`
+Testing 1.
+`
+
+
