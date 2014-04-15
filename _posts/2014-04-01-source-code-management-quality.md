@@ -25,18 +25,14 @@ and search over the tree without the need of reading directly the code.
 Look at these real examples and try to imagine how you would read a tree full of
 commits like these without feelling you are reading a boring ass story.
 
-` 
     commit 7f6bba884f8bf417d7ea25bb6ae106180cdcdbb2
     Author: developer <developer@boring.com>
     Date:   Tue Apr 15 12:06:19 2013 +0200
 
         Update view
-`
 
-`
     commit 7f6bba884f8bf417d7ea25bb6ae106180cdcdbb2
     Author: developer <developer@boring.com>
     Date:   Wed Jun 15 9:06:19 2013 +0200 
 
         testing 1
-`
