@@ -15,12 +15,11 @@ those ones **I personally like**.
 
 Choose the right and simple data structures
 -------------------------------------------
-When doing software development programming is often understood as the main
-activity. Much of the debates about programming Languages are the result of that
+When doing software development **programming** is often understood as the main
+activity. Much of the debates about programming languages are the result of that
 prejudice. It is not only an utter waste of time, but so much the worse a wrong
 perspective: it puts the focus on code structures (algorithms, code flows, etc.)
 instead of data structures.
-structures.
 
 Data structures, not code structures, are central to programming. Once choosen
 the right and simple ones, everything almost always becomes self-evident. Data
