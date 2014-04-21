@@ -9,7 +9,7 @@ Writing code is not an impersonal activity. On the contrary it has a close
 connection with feelings, taste and personal ideas. That means there is not just
 a way of doing things in programming, and those personal framework is at the end
 the origin of main software development decisions. I have tried to summarize
-those ones I personally like.
+those ones **I personally like**.
 
 ---
 
