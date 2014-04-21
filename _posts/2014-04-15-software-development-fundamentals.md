@@ -30,6 +30,6 @@ complexity of the data type, but also the operations performen upon it.
 
 
 ---
-<a name="1"></a>[[1]][_Basics of the Unix
+<a name="1"></a>[1] [_Basics of the Unix
 Philosophy_](http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
 
