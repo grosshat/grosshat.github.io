@@ -26,9 +26,10 @@ Data structures, not code structures, are central to programming. Once choosen
 the right and simple ones, everything almost always becomes self-evident. Data
 structures must be choosen taking into account not only the space and time
 complexity of the data type, but also the operations performen upon it.
-[1][1]
+[1](#1)
 
 
 ---
-[1][_Basics of the Unix Philosophy_]
+<a name="1"></a>[_Basics of the Unix
+Philosophy_](http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
 
