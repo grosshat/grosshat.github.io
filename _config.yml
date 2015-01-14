@@ -16,7 +16,7 @@ shorturl:         inigomedina.github.io
 
 author:
   name:           'Iñigo Medina'
-  url:            https://twitter.com/inigomedina
+  url:            https://twitter.com/inigo_medina
 
 paginate:         0
 
@@ -29,7 +29,7 @@ github:
 # This is the list of pages to incldue in the header of the website.
 pages_list:       
   About: '/about/'
-  Twitter: 'http://twitter.com/inigomedina'
+  Twitter: 'http://twitter.com/inigo_medina'
   GitHub: 'http://github.com/inigomedina'
   StackOverflow: 'http://stackoverflow.com/users/574093/inigomedina'
   Feed: '/feed/'
