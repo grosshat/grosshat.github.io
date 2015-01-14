@@ -12,7 +12,7 @@ Control System (VCS) records changes to file/s over time so that you can recall
 specific versions later. It helps a lot giving you an structured way for
 managing changes, naming them, tagging them and sharing them with other
 developers. Despite its importance, there is often a **lack of taste** for VCS
-management among developers.
+management among developers. Let's see some of them.
 
 ---
 
