@@ -11,6 +11,9 @@
         <h3 class="masthead-title">
           <a href="/" title="Home">{{ site.title }}</a>
         </h3>
+        {% for page in site.pages_list %}
+            &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+        {% endfor %} 
       </div>
 
       {{ content }}
@@ -18,9 +21,6 @@
       {% include comments.html %}
 
       <div class="footer">
-        {% for page in site.pages_list %}
-            &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-        {% endfor %} 
       </div>
     </div>
 
