@@ -143,6 +143,10 @@ hr {
   border-bottom: 1px solid #fff;
 }
 
+hr.excerpt {
+  border-top: 4px solid #eee;
+}
+
 abbr {
   font-size: 85%;
   font-weight: bold;
