@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I write code for fun and profit.
+Engineer. Working at Muro.exe, Mirai, Grosshat..
 
 ![Pic profile.](/assets/imedina-jekyll.png)
 
