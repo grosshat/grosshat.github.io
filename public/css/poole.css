@@ -120,6 +120,7 @@ ul, ol, dl {
 .nav li {
   display: inline-block;
   margin-right: 20px;
+  font-size: .9rem;
 }
 
 dt {
@@ -280,7 +281,6 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
 }
 .masthead-title {
   margin-top: 0;
