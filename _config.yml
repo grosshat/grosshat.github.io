@@ -29,9 +29,10 @@ github:
 # This is the list of pages to incldue in the header of the website.
 pages_list:       
   About: '/about/'
-  Twitter: 'http://twitter.com/inigo_medina'
   GitHub: 'http://github.com/inigomedina'
   StackOverflow: 'http://stackoverflow.com/users/574093/inigomedina'
+  Twitter: 'http://twitter.com/inigo_medina'
+  LinkedIn: 'http://linkedin.com/in/imedina'
   Feed: '/feed/'
 
 # Allow URL Redirects: 
