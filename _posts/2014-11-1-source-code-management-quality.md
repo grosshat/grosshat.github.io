@@ -44,6 +44,7 @@ commits like these without feeling you are reading a boring ass story.
 
         update plugin.php, monday 7 
 
+---
 
 Non-English Language
 --------------------
@@ -88,7 +89,7 @@ commits like these without feeling that the story is broken.
         /classes/person.php | 12 +++++++-
         1 file changed, 7 insertions(+), 1 deletions(-) 
           
-
+---
 
 Poor Ego
 --------
