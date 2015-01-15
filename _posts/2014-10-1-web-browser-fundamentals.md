@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Web Browsers Fundamentals
+title: Web Browser Fundamentals
 comments: true
-permalink: web-browsers-fundamentals
+permalink: web-browser-fundamentals
 ---
 
 A painter knows well how the surface works, paper, canvas, copper o whatever.
