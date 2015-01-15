@@ -33,7 +33,6 @@ pages_list:
   StackOverflow: 'http://stackoverflow.com/users/574093/inigomedina'
   Twitter: 'http://twitter.com/inigo_medina'
   LinkedIn: 'http://linkedin.com/in/inigomedina'
-  Feed: '/feed/'
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
