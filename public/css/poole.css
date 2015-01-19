@@ -200,6 +200,9 @@ pre code {
 /* Quotes */
 .quote {
   font-style: italic;
+  display: inline-block;
+  margin-left: 20px;
+  color: #a8a8a8;
 }
 blockquote {
   padding: .5rem 1rem;
