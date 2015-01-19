@@ -198,6 +198,9 @@ pre code {
 }
 
 /* Quotes */
+.quote {
+  font-style: italic;
+}
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
