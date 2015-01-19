@@ -12,5 +12,5 @@ I tend to build cross-functional teams, with a lot of communication and
 collaboration. Teams where personal attitudes matter. Teams with clear
 vision, common goals and strong leadership.
 
-![Pic profile.](/assets/imedina-jekyll.png)
+![Pic profile.](/assets/imedina-jekyll.jpg)
 
